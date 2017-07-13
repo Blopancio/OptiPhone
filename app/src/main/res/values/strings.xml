@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voting</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="reprocess">Reprocess</string>
+    <string name="cast_vote">Cast vote</string>
+    <string name="check_vote">Results</string>
+</resources>
